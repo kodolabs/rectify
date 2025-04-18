@@ -170,7 +170,7 @@ DEPENDENCIES
   rspec (~> 3.8)
   rspec-collection_matchers (~> 1.1)
   rubocop (~> 1.25)
-  sqlite3 (= 1.5.4)
+  sqlite3 (~> 1.5.4)
   wisper-rspec
 
 BUNDLED WITH
