@@ -1,5 +1,5 @@
-require File.expand_path("../../lib/rectify", __FILE__)
-require File.expand_path("../../lib/rectify/rspec", __FILE__)
+require File.expand_path("../lib/rectify", __dir__)
+require File.expand_path("../lib/rectify/rspec", __dir__)
 
 require "rspec/collection_matchers"
 require "awesome_print"

@@ -14,7 +14,7 @@ Style/HashSyntax:
 Style/StringLiterals:
   EnforcedStyle: double_quotes
 
-Layout/AlignParameters:
+Layout/ParameterAlignment:
   EnforcedStyle: with_fixed_indentation
 
 Layout/MultilineOperationIndentation:
